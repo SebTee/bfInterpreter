@@ -6,7 +6,7 @@ This is a interpreter for the esoteric programming language Brainfuck.
 
 ### Compiling
 ```shell script
-gcc main.cpp -lstdc++ -o bfInterpreter
+gcc main.cpp Interpreter.cpp Memory.cpp -lstdc++ -o bfInterpreter
 ```
 You can replace `bfInterpreter` with any name for the outputted executable file. Make sure to use the correct file name when running the program.
 
