@@ -1,6 +1,6 @@
 # Brainfuck Interpreter
 
-This is a interpreter for the esoteric programming language Brainfuck.
+This is an interpreter for the esoteric programming language Brainfuck.
 
 ## Instructions
 
